@@ -1,0 +1,5 @@
+# Requirements without Version Specifiers
+# May need to play around with versions if there are compatibility issues
+numpy
+qiskit
+import-ipynb
