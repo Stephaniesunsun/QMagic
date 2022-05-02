@@ -8,3 +8,8 @@ Quantum Random Number Generator
 <a href="https://www.nature.com/articles/srep45928#Sec5" target="_blank" >
 Quantum Key Distribution Protocol for Multiuser Applications
 </a>
+
+Run this to install all dependencies: 
+```
+python -m pip install -r requirements.txt
+```
