@@ -1,4 +1,4 @@
-## Multiuser Quantum Cryptography Protocol for Secure Communications
+# Multiuser Quantum Cryptography Protocol for Secure Communications
 Implementation based on literature review of:<br>
 *
 <a href="https://www.nature.com/articles/s41598-019-56706-2" target="_blank">
@@ -13,7 +13,7 @@ Run this to install all dependencies:
 ```
 python -m pip install -r requirements.txt
 ```
-# Description of Notebooks:
+## Description of Notebooks:
 * mqkd_keygen.ipynb - Simple simulation of the Key Distribution Circuit
 * mqkd_keygen_on_real_hardware.ipynb - Key Distribution Circuit on a real hardware
 * mqkd_keygen_with_err_correction.ipynb - Key Distribution with Noise related Error Correction
